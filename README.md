@@ -10,3 +10,6 @@ The **Accuracy** achieved by each of the 3 models are as follows:
   **2. MobileNetV3Small:** 98.37% (mob_small.h5)
   
   **3. MobileNetV3Large:** 96.08% (mob_large.h5)
+
+To use the Web Application, click the url below:
+https://abhishekbiswas12-bike-vs-car-webapp-xv8ynn.streamlit.app/
