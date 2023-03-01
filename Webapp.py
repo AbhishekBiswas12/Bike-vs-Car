@@ -3,7 +3,7 @@ import numpy as np
 import tensorflow as tf
 import h5py
 from tensorflow.keras.models import load_model
-import cv2 as cv
+# import cv2 as cv
 from PIL import Image, ImageOps
 
 
