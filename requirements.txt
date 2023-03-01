@@ -3,6 +3,7 @@ keras
 matplotlib
 numpy
 opencv-contrib-python
+opencv
 pandas
 Pillow
 protobuf
