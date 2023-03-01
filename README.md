@@ -5,5 +5,7 @@ We have fine-tuned 3 models from the pretrained **VGG16**, **MobileNetV3Small** 
 
 The **Accuracy** achieved by each of the 3 models are as follows:
   **1. VGG16:** 99.02% (vgg16.h5)
+  
   **2. MobileNetV3Small:** 98.37% (mob_small.h5)
+  
   **3. MobileNetV3Large:** 96.08% (mob_large.h5)
